@@ -63,7 +63,7 @@ const Home = () => {
             className="mb-10 relative"
           >
             <img
-              src="../assets/rohan.jpg"
+              src="../images/Rohan.jpg"
               alt="Rohan Jadhav"
               className="w-60 h-60 rounded-full border-4 border-purple-500 object-cover"
             />
